@@ -1,0 +1,24 @@
+AUC_test	PRC_test
+
+<All keys matched successfully>
+0.7806668446213206      0.822746279869045
+<All keys matched successfully>
+0.7462568856317795      0.7847652681249134
+<All keys matched successfully>
+0.7364835351500885      0.7932765587845629
+<All keys matched successfully>
+0.7670897134121187      0.8131775580075618
+<All keys matched successfully>
+0.7530636511441675      0.7927721836080739
+<All keys matched successfully>
+0.8095561649154313      0.8502933484060109
+<All keys matched successfully>
+0.7853684874663301      0.819839001015558
+<All keys matched successfully>
+0.7922359193380086      0.8278047398270292
+<All keys matched successfully>
+0.7774211943992817      0.8087876438080306
+<All keys matched successfully>
+0.7902824625688563      0.8305020542572301
+
+0.8268703438569245      0.8441220870582691
